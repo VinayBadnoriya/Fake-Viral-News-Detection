@@ -1,6 +1,6 @@
-.env
-*.pkl
 __pycache__/
 .DS_Store
 *.ipynb
 news.csv
+config.bat
+node_modules
